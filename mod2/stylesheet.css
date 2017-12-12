@@ -1,0 +1,48 @@
+* {
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+header {
+	text-align: center;
+	color: #000000;
+	font-weight: bolder;
+	font-size: 150%;
+	margin-top: 30px;
+	background-color: #6d6d6d;
+}
+
+body {
+	background-color: #6d6d6d;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.menuBox {
+	position: relative;
+	background-color: #f6d99c;
+	margin: 50px;
+	margin-right: 25px;
+	margin-left: 25px;
+	width: 386px;
+	border: 4px solid black;
+	float: left;
+	overflow: auto;
+}
+	
+.menuName {
+	position: relative;
+	left: 10%;
+	margin-left: 50%;
+	margin-right: 10%;
+	text-align: center;
+	font-weight: bold;
+	border-bottom: 4px solid black;
+	border-left: 4px solid black;
+	background-color: #f2d28f;
+}
+
+.menuItem {
+	background-color: #f6d99c;
+	padding: 5px;
+}
