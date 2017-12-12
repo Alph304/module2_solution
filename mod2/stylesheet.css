@@ -48,6 +48,7 @@ body {
 .menuItem {
 	background-color: #f6d99c;
 	padding: 5px;
+	text-align: justify;
 }
 
 @media (min-width: 992px) {
